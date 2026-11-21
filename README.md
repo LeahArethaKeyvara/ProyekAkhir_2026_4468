@@ -30,12 +30,21 @@ instruksi Paket 3. Jangan mengerjakan bagian tersebut pada Paket 1.
 
 
 1.Buka/refresh aplikasi : Tiga data awal tampil; 3.
+
 2.Ketik Persiapan Lomba> Tambah : Muncul di daftar; jumlah menjadi 4.
+
 3.Refresh; ketik Piket Kelas> Tambah : Ditolak; jumlah tetap 3.
+
 4.Refresh; ketik spasi saja> Tambah : Ditolak; Jumlah tetap 3.
+
 5.Refresh; ketik rapat OSIS> Cari : Pesan kegiatan ditemukan (indeks 1). 
+
 6.Ketik Bakti Sosial> Cari : Pesan Kegiatan tidak ditemukan.
+
 7.Refresh; ketik Kerja Bakti> Hapus : Kegiatan hilang; jumlah menjadi 2.
+
 8.Refresh; ketik Bakti Sosial> Hapus : Ditolak; daftar dan jumlah tetap.
+
 9.Refresh; Tambah persiapan Lomba, lalu Hapus Piket Kelas : Jumlah berturut-turut 3>4>3.
+
 10.Refresh; hapus ketiga kegiatan satu per satu: Daftar kosong; jumlah0;tanpa error.
